@@ -1,1 +1,1 @@
-# Face-Detection-using-OpenCV-and-DNN
+# Face-Recognition-using-OpenCV-and-DNN
